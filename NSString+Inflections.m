@@ -80,6 +80,7 @@ THE SOFTWARE.
 			[NSArray arrayWithObjects:@"(pe)ople$", @"$1rson", nil],
 			[NSArray arrayWithObjects:@"(child)ren$", @"$1", nil],
 			[NSArray arrayWithObjects:@"(n)ews$", @"$1ews", nil],
+			[NSArray arrayWithObjects:@"status", @"status", nil],
 			[NSArray arrayWithObjects:@"([ti])a$", @"$1um", nil],
 			[NSArray arrayWithObjects:@"((a)naly|(b)a|(d)iagno|(p)arenthe|(p)rogno|(s)ynop|(t)he)ses$", @"$1$2sis", nil],
 			[NSArray arrayWithObjects:@"(^analy)ses$", @"$1sis", nil],
